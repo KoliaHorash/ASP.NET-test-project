@@ -1,0 +1,11 @@
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.deps.json
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.json
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.runtimeconfig.dev.json
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\bin\Debug\netcoreapp2.0\TestProject.pdb
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.csprojAssemblyReference.cache
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.AssemblyInfo.cs
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.dll
+C:\Users\Kolia Horash\source\repos\TestProject\TestProject\obj\Debug\netcoreapp2.0\TestProject.pdb
